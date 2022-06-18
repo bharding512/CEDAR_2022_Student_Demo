@@ -2,3 +2,5 @@
 .DS_Store
 .ipynb_checkpoints/
 .ipynb_checkpoints/Tutorial-checkpoint.ipynb
+./__pycache__
+Tutorial_saved_scratchpad.ipynb
